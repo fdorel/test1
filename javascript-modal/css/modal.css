@@ -1,6 +1,6 @@
 body {
-	/* background: #c0c0c0; */
-	font-family: 'Poppins', sans-serif;
+  background: #c0c0c0;
+  font-family: 'Poppins', sans-serif;
   text-align: center;
   font-size: 24px !important;
   width: 100%;
@@ -8,7 +8,7 @@ body {
 }
 
 div {
-	margin: 5px;
+  margin: 5px;
 }
 
 .modalWrap {
