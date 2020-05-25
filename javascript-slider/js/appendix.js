@@ -3,5 +3,5 @@ document.querySelector('.appendix').onclick = function() {
 }
 
 document.querySelector('.appendixGoBack').onclick = function() {
-    document.querySelector('.sliderForm').style.marginLeft = '10px';
+    document.querySelector('.sliderForm').style.marginLeft = '0px';
 }
