@@ -29,7 +29,7 @@ class AlertSecond extends Alert {
         document.querySelector(this.out).innerHTML = `<p class="${this.cssClass}"><i class="material-icons">${this.icon}</i>${this.message}</p>`;
     }
     myAlert() {
-        alert("Yoooo!" + this.message);
+        alert("yes" + this.message);
     }
 }
 
