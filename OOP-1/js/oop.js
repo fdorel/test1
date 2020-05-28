@@ -4,7 +4,7 @@ function myAlert(a, c, d) {
 }
 
 myAlert('Hi', 'blue', '.test');
-myAlert('Yooo!', 'orange', '.test2');
+myAlert('Yep!', 'orange', '.test2');
 
 class Alert {
     constructor(a, c, d) {
