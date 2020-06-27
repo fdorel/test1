@@ -18,5 +18,5 @@ function closePen() {
     document.querySelectorAll('.modalWrap').forEach(function (element) {
         element.classList.add('hide');
     });
-    
+    document.onkeydown = null;    
 }
