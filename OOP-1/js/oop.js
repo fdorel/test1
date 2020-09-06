@@ -3,7 +3,7 @@ function myAlert(a, c, d) {
     document.querySelector(d).innerHTML = b;
 }
 
-myAlert('Yo', 'blue', '.test');
+myAlert('Hi', 'blue', '.test');
 myAlert('Yep!', 'orange', '.test2');
 
 class Alert {
